@@ -36,15 +36,15 @@ shell_note:  "I use Arch, btw."
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,javascript&theme=dark" />
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,arch&theme=dark" />
 
 <br/>
 
