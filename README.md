@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=0CE82B&background=00000000&center=true&vCenter=true&width=650&lines=root%40almeidafm%3A~%24+whoami;Java+%2F+Backend+Developer;Computer+Science+Student;Cybersecurity+%2B+Linux+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<img src="https://img.shields.io/badge/OS-Arch_Linux-0CE82B?style=for-the-badge&logo=archlinux&logoColor=0CE82B&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=almeidafm&label=PROFILE+VIEWS&color=0CE82B&style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/github/followers/almeidafm?label=FOLLOWERS&color=0CE82B&style=for-the-badge&labelColor=000000" />
-
 </div>
 
 <br/>
@@ -27,7 +21,6 @@ focus:
   - Cybersecurity
   - Linux Systems
   - Open Source
-shell_note:  "I use Arch, btw."
 ```
 
 <br/>
